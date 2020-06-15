@@ -5,8 +5,9 @@ Ini adalah ReadMe yang dibuat untuk aplikasi input pesanan di Rumah Makan Minum.
 Aplikasi ini memiliki beberapa fitur yang dapat digunakan, yaitu sebagai berikut.
 1. Dapat menginput pesanan pelanggan.
 2. Dapat mengetahui harga setiap menu yang ada.
-3. Dapat menghitung harga setiap pesanan yang dipesan.
-4. Dapat menghitung jumlah keseluruhan harga pesanan yang dipesan.
+3. Dapat melihat preview dari setiap menu.
+4. Dapat menghitung harga setiap pesanan yang dipesan.
+5. Dapat menghitung jumlah keseluruhan harga pesanan yang dipesan.
 
 ## Build With
 Aplikasi ini dibuat menggunakan :
@@ -14,5 +15,5 @@ Aplikasi ini dibuat menggunakan :
 * Bootstrap 4 - Framework
 * Sublime Text - Aplikasi Text Editor
 
-## Author
+## Credits
 * Syifa Faradilla Fabrianne
